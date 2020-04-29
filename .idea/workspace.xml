@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d51a2bb-27d1-4dd3-b43d-ab54a4812aac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/yagch_python.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="max-yagch &lt;yagch@sina.com&gt;" />
+        <option value="max" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\maxyang\PycharmProjects\yagch_python\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b7Y7ywmJuKnj5hGoT7EvwuNByg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/函数" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maxyang\PycharmProjects\yagch_python\day01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maxyang\PycharmProjects\yagch_python\函数" />
+      <recent name="C:\Users\maxyang\PycharmProjects\yagch_python\序列" />
+      <recent name="C:\Users\maxyang\PycharmProjects\yagch_python\day01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.13.遍历字典">
+    <configuration name="05.列表的方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yagch_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/序列" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/序列/05.列表的方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09.元组" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yagch_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/序列" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/序列/09.元组.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10.可变对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yagch_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/序列" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/序列/10.可变对象.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11.字典" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yagch_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/序列" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/序列/11.字典.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="13.遍历字典" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yagch_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/序列" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/序列/13.遍历字典.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.13.遍历字典" />
+        <item itemvalue="Python.11.字典" />
+        <item itemvalue="Python.10.可变对象" />
+        <item itemvalue="Python.09.元组" />
+        <item itemvalue="Python.05.列表的方法" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\maxyang\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d51a2bb-27d1-4dd3-b43d-ab54a4812aac" name="Default Changelist" comment="" />
+      <created>1587984435901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587984435901</updated>
+      <workItem from="1587984438284" duration="7278000" />
+      <workItem from="1588036213867" duration="116000" />
+      <workItem from="1588036945450" duration="17000" />
+      <workItem from="1588036973327" duration="1627000" />
+      <workItem from="1588039921766" duration="1529000" />
+      <workItem from="1588041803037" duration="1720000" />
+      <workItem from="1588043616903" duration="1409000" />
+      <workItem from="1588045343715" duration="1095000" />
+      <workItem from="1588050669811" duration="4000" />
+      <workItem from="1588051595565" duration="1799000" />
+      <workItem from="1588053407739" duration="1797000" />
+      <workItem from="1588055223239" duration="1645000" />
+      <workItem from="1588125793215" duration="157000" />
+      <workItem from="1588125961010" duration="18000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1588037177066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588037177066</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="100" key="CommitChangelistDialog2" timestamp="1588037174458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="100" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588037174458" />
+    <state x="719" y="246" key="FileChooserDialogImpl" timestamp="1587993625095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="246" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587993625095" />
+    <state x="765" y="416" width="373" height="173" key="Github.CreateGistDialog" timestamp="1587993577380">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="416" width="373" height="173" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587993577380" />
+    <state x="317" y="462" width="280" height="279" key="Github.ShareDialog" timestamp="1588036999080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="317" y="462" width="280" height="279" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588036999080" />
+    <state x="712" y="210" key="Github.UntrackedFilesDialog" timestamp="1588037043432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="210" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588037043432" />
+    <state width="1529" height="275" key="GridCell.Tab.0.bottom" timestamp="1588054531510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1529" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588054531510" />
+    <state width="1529" height="275" key="GridCell.Tab.0.center" timestamp="1588054531510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1529" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588054531510" />
+    <state width="1529" height="275" key="GridCell.Tab.0.left" timestamp="1588054531509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1529" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588054531509" />
+    <state width="1529" height="275" key="GridCell.Tab.0.right" timestamp="1588054531510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1529" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588054531510" />
+    <state x="306" y="315" key="SettingsEditor" timestamp="1588043887265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="306" y="315" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588043887265" />
+    <state x="531" y="238" key="Vcs.Push.Dialog.v2" timestamp="1588037196473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="531" y="238" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588037196473" />
+  </component>
+</project>
