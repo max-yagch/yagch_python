@@ -91,6 +91,7 @@ def fn3(old):
         参数：
             old 要扩展的函数对象
     '''
+    # *args 接受所有的位置参数   **kwargs 接受所有的关键字参数
     # 创建一个新函数
     def new_function(*args , **kwargs):
         print('fn3装饰~开始执行~~~~')

@@ -56,6 +56,11 @@ def fn4(i):
         
 # print(fn(fn4 , l))
 
+
+
+
+
+
 # filter()
 # filter()可以从序列中过滤出符合条件的元素，保存到一个新的序列中
 # 参数：
@@ -82,7 +87,7 @@ fn6 = lambda a,b : a + b
 
 
 r = filter(lambda i : i > 5 , l)
-# print(list(r))
+print(list(r))
 
 # map()
 # map()函数可以对可跌倒对象中的所有元素做指定的操作，然后将其添加到一个新的对象中返回
@@ -90,7 +95,7 @@ l = [1,2,3,4,5,6,7,8,9,10]
 
 r = map(lambda i : i ** 2 , l)
 
-# print(list(r))
+print(list(r))
 
 # sort()
 # 该方法用来对列表中的元素进行排序
@@ -103,7 +108,7 @@ l = ['bb','aaaa','c','ddddddddd','fff']
 
 l = [2,5,'1',3,'6','4']
 l.sort(key=int)
-# print(l)
+print(l)
 
 # sorted()
 # 这个函数和sort()的用法基本一致，但是sorted()可以对任意的序列进行排序
@@ -112,6 +117,6 @@ l.sort(key=int)
 l = [2,5,'1',3,'6','4']
 # l = "123765816742634781"
 
-print('排序前:',l)
-print(sorted(l,key=int))
-print('排序后:',l)
+# print('排序前:',l)
+# print(sorted(l,key=int))
+# print('排序后:',l)
