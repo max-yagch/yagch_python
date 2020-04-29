@@ -21,6 +21,8 @@ print(a.name)
 
 # a = None # 将a设置为了None，此时没有任何的变量对A()对象进行引用，它就是变成了垃圾
 # b = None
-# del a
-# del b
+del a
+print("=====")
+del b
+print("===")
 input('回车键退出...')
