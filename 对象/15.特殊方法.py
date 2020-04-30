@@ -75,7 +75,7 @@ p2 = Person('猪八戒',28)
 
 # print(bool(p1))
 
-# if p1 :
-#     print(p1.name,'已经成年了')
-# else :
-#     print(p1.name,'还未成年了')
+if p1 :
+    print(p1.name,'已经成年了')
+else :
+    print(p1.name,'还未成年了')

@@ -42,13 +42,14 @@ try:
             # 读取chunk大小的内容
             content = file_obj.read(chunk)
 
-            # 检查是否读取到了内容
+            # 检查是否读取到了内容  没有读取到内容回返回空串  空串会转换为false  not false 为true
             if not content:
+
                 # 内容读取完毕，退出循环
                 break
 
             # 输出内容
-            # print(content,end='')
+            print(content,end='')
             file_content += content
 
 except FileNotFoundError :

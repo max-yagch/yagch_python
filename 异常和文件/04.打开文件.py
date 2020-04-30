@@ -21,7 +21,7 @@ file_name = '../hello/demo.txt'
 # 如果目标文件距离当前文件比较远，此时可以使用绝对路径
 # 绝对路径应该从磁盘的根目录开始书写
 file_name = r'C:\Users\lilichao\Desktop\hello.txt'
-
-# file_obj = open(file_name) # 打开 file_name 对应的文件
-
-# print(file_obj)
+file_name  = r'C:\Users\maxyang\PycharmProjects\yagch_python\异常和文件\demo.txt'
+file_obj = open(file_name) # 打开 file_name 对应的文件
+open(file_name)
+print(file_obj)

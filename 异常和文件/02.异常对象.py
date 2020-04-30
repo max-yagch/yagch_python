@@ -7,6 +7,7 @@ try:
     print(10/0)
 except NameError:
     # 如果except后不跟任何的内容，则此时它会捕获到所有的异常
+
     # 如果在except后跟着一个异常的类型，那么此时它只会捕获该类型的异常
     print('出现 NameError 异常')
 except ZeroDivisionError:

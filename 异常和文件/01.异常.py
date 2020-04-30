@@ -15,8 +15,14 @@
 
 def fn():
     print('Hello fn')
-    print(a)
-    print(10/0)
+    try :
+        print(a)
+        print(10/0)
+    except:
+        print("chucuole")
+    else:
+        print("zhengchang ")
+    print("jieshu")
 
 def fn2():
     print('Hello fn2')

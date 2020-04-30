@@ -20,13 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d51a2bb-27d1-4dd3-b43d-ab54a4812aac" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/hive/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hive/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/异常和文件/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/异常和文件/aa.ncm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/对象/03.对象的初始化.py" beforeDir="false" afterPath="$PROJECT_DIR$/对象/03.对象的初始化.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/对象/07.封装.py" beforeDir="false" afterPath="$PROJECT_DIR$/对象/07.封装.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/对象/08.继承.py" beforeDir="false" afterPath="$PROJECT_DIR$/对象/08.继承.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/对象/10.继承.py" beforeDir="false" afterPath="$PROJECT_DIR$/对象/10.继承.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/对象/12.多态.py" beforeDir="false" afterPath="$PROJECT_DIR$/对象/12.多态.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/对象/14.垃圾回收.py" beforeDir="false" afterPath="$PROJECT_DIR$/对象/14.垃圾回收.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/对象/01.类的简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/对象/01.类的简介.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/对象/15.特殊方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/对象/15.特殊方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/对象/16.模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/对象/16.模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/对象/17.模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/对象/17.模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/对象/m.py" beforeDir="false" afterPath="$PROJECT_DIR$/对象/m.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/异常和文件/01.异常.py" beforeDir="false" afterPath="$PROJECT_DIR$/异常和文件/01.异常.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/异常和文件/02.异常对象.py" beforeDir="false" afterPath="$PROJECT_DIR$/异常和文件/02.异常对象.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/异常和文件/03.抛出异常.py" beforeDir="false" afterPath="$PROJECT_DIR$/异常和文件/03.抛出异常.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/异常和文件/04.打开文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/异常和文件/04.打开文件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/异常和文件/05.关闭文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/异常和文件/05.关闭文件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/异常和文件/06.文件的读取.py" beforeDir="false" afterPath="$PROJECT_DIR$/异常和文件/06.文件的读取.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/异常和文件/07.文件读取.py" beforeDir="false" afterPath="$PROJECT_DIR$/异常和文件/07.文件读取.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/异常和文件/09.文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/异常和文件/09.文件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/异常和文件/11.文件的其他操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/异常和文件/11.文件的其他操作.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +74,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/异常和文件" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tushare" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -76,8 +89,8 @@
       <recent name="C:\Users\maxyang\PycharmProjects\yagch_python\day01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.14.垃圾回收">
-    <configuration name="08.继承" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.11.文件的其他操作">
+    <configuration name="06.文件的读取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yagch_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/异常和文件" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/对象/08.继承.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/异常和文件/06.文件的读取.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12.多态" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07.文件读取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yagch_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/异常和文件" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/对象/12.多态.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/异常和文件/07.文件读取.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14.垃圾回收" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09.文件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yagch_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/异常和文件" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/对象/14.垃圾回收.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/异常和文件/09.文件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="memory_disk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10.读取文件的位置" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yagch_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/异常和文件" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script/memory_disk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/异常和文件/10.读取文件的位置.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11.文件的其他操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yagch_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,11 +182,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/异常和文件" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/对象/test_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/异常和文件/11.文件的其他操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.14.垃圾回收" />
-        <item itemvalue="Python.12.多态" />
-        <item itemvalue="Python.08.继承" />
-        <item itemvalue="Python.test_class" />
-        <item itemvalue="Python.memory_disk" />
+        <item itemvalue="Python.11.文件的其他操作" />
+        <item itemvalue="Python.10.读取文件的位置" />
+        <item itemvalue="Python.09.文件" />
+        <item itemvalue="Python.07.文件读取" />
+        <item itemvalue="Python.06.文件的读取" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588139149143</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <created>1588144307176</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588144307176</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,10 +286,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="551" y="100" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588037174458" />
-    <state x="719" y="246" key="FileChooserDialogImpl" timestamp="1587993625095">
+    <state x="719" y="246" key="FileChooserDialogImpl" timestamp="1588234416118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="719" y="246" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587993625095" />
+    <state x="719" y="246" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588234416118" />
     <state x="765" y="416" width="373" height="173" key="Github.CreateGistDialog" timestamp="1587993577380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -282,29 +302,45 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="712" y="210" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588037043432" />
-    <state width="1362" height="258" key="GridCell.Tab.0.bottom" timestamp="1588143861474">
+    <state width="1362" height="165" key="GridCell.Tab.0.bottom" timestamp="1588233758873">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588143861474" />
-    <state width="1362" height="258" key="GridCell.Tab.0.center" timestamp="1588143861473">
+    <state width="1362" height="165" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588233758873" />
+    <state width="1362" height="165" key="GridCell.Tab.0.center" timestamp="1588233758873">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="258" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588143861473" />
-    <state width="1362" height="258" key="GridCell.Tab.0.left" timestamp="1588143861473">
+    <state width="1362" height="165" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588233758873" />
+    <state width="1362" height="165" key="GridCell.Tab.0.left" timestamp="1588233758873">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="258" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588143861473" />
-    <state width="1362" height="258" key="GridCell.Tab.0.right" timestamp="1588143861473">
+    <state width="1362" height="165" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588233758873" />
+    <state width="1362" height="165" key="GridCell.Tab.0.right" timestamp="1588233758873">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="258" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588143861473" />
+    <state width="1362" height="165" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588233758873" />
+    <state width="1362" height="250" key="GridCell.Tab.1.bottom" timestamp="1588227727602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="250" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588227727602" />
+    <state width="1362" height="250" key="GridCell.Tab.1.center" timestamp="1588227727602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="250" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588227727602" />
+    <state width="1362" height="250" key="GridCell.Tab.1.left" timestamp="1588227727602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="250" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588227727602" />
+    <state width="1362" height="250" key="GridCell.Tab.1.right" timestamp="1588227727602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="250" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588227727602" />
     <state x="833" y="280" key="SettingsEditor" timestamp="1588139863465">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="833" y="280" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588139863465" />
-    <state x="531" y="238" key="Vcs.Push.Dialog.v2" timestamp="1588139169530">
+    <state x="531" y="238" key="Vcs.Push.Dialog.v2" timestamp="1588144316967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="531" y="238" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588139169530" />
+    <state x="531" y="238" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588144316967" />
   </component>
 </project>
